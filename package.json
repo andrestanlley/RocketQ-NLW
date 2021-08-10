@@ -1,0 +1,27 @@
+{
+  "name": "nlwdiscover",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido durante a NLW6 na missão Discovery",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrestanlley/RocketQ-nlw06.git"
+  },
+  "keywords": [],
+  "author": "André Stanlley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrestanlley/RocketQ-nlw06/issues"
+  },
+  "homepage": "https://github.com/andrestanlley/RocketQ-nlw06#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
